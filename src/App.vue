@@ -5,6 +5,7 @@
 
     <div class="social-icons">
       <a href="https://github.com/santiagomr" target="_blank"><i class="fa fa-github"></i></a>
+      <a href="https://t.me/santiagomr" target="_blank"><i class="fa fa-telegram"></i></a>
       <a href="https://gitlab.com/santiagomr" target="_blank"><i class="fa fa-gitlab"></i></a>
     </div>
 
@@ -45,7 +46,6 @@
 
   body {
     height: 100vh;
-    /*min-height: 100vh;*/
     background-color: #28a745;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -63,7 +63,7 @@
   }
 
   .social-icons {
-    font-size: 4em; /* 64px */
+    font-size: 3.8em; /* 60px */
   }
 
   .social-icons a {
@@ -74,7 +74,7 @@
     transition-timing-function: ease-in-out;
   }
   .social-icons a:hover {
-    font-size: 1.1em; /* 68px */
+    font-size: 1.1em;
   }
 
 </style>
