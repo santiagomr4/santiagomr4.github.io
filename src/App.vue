@@ -5,6 +5,7 @@
 
     <div class="social-icons">
       <a href="https://github.com/santiagomr" target="_blank"><i class="fa fa-github"></i></a>
+      <a href="https://twitter.com/xantiagomr" target="_blank"><i class="fa fa-twitter"></i></a>
       <a href="https://t.me/santiagomr" target="_blank"><i class="fa fa-telegram"></i></a>
       <a href="https://gitlab.com/santiagomr" target="_blank"><i class="fa fa-gitlab"></i></a>
     </div>
